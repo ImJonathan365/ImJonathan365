@@ -16,6 +16,17 @@ especially in backend development and REST APIs. I have developed academic and p
 projects using Laravel, Spring Boot, Node.js and FastAPI.
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Laravel-red">
+  <img src="https://img.shields.io/badge/Java-SpringBoot-green">
+  <img src="https://img.shields.io/badge/Python-FastAPI-blue">
+  <img src="https://img.shields.io/badge/Node.js-Backend-brightgreen">
+  <img src="https://img.shields.io/badge/MySQL-Database-orange">
+  <img src="https://img.shields.io/badge/Docker-Container-blue">
+  <img src="https://img.shields.io/badge/Cloud-Learning-lightgrey">
+  <img src="https://img.shields.io/badge/AI-Learning-lightgrey">
+</p>
+
 <h2>🛠 Technologies</h2>
 <ul>
   <li>PHP / Laravel</li>
@@ -28,31 +39,14 @@ projects using Laravel, Spring Boot, Node.js and FastAPI.
   <li>Linux</li>
 </ul>
 
-<h2>🚀 Projects</h2>
-
-<h3>Educational Platform (Laravel)</h3>
-<ul>
-  <li>Web platform for vocational tests and admission simulations</li>
-  <li>User roles and permissions</li>
-  <li>Timed exams</li>
-  <li>REST API</li>
-  <li>MySQL database</li>
-</ul>
-
-<h3>Accounting System (Laravel)</h3>
-<ul>
-  <li>Web accounting system developed in a Scrum team</li>
-  <li>Task management with Taiga</li>
-  <li>Version control with GitLab</li>
-  <li>Backend development with Laravel</li>
-</ul>
-
 <h2>📚 Currently Learning</h2>
 <ul>
-  <li>Software Architecture</li>
-  <li>Docker</li>
   <li>API Security</li>
-  <li>System Design</li>
+  <li>Software Architecture</li>
+  <li>Docker and containerization</li>
+  <li>Python for backend and automation</li>
+  <li>Artificial Intelligence fundamentals</li>
+  <li>Cloud Computing (AWS)</li>
 </ul>
 
 <h2>📫 Contact</h2>
