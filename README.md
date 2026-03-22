@@ -12,8 +12,7 @@
 <h2>👨‍💻 About Me</h2>
 <p>
 I am a Business Informatics student with experience in full stack web development, 
-especially in backend development and REST APIs. I have developed academic and personal 
-projects using Laravel, Spring Boot, Node.js and FastAPI.
+especially in backend development and REST APIs.
 </p>
 
 <p align="center">
